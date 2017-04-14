@@ -33,7 +33,7 @@ public class Main {
         return maxLength;  
     }  
     public static void main(String[] args) {  
-        String str="bbbbbadfaffadfff";  
+        String str="Whatever is worth doing is worth doing well";  
         System.out.println(maxLength(str));  
   
     }  
