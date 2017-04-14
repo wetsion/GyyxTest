@@ -33,7 +33,7 @@ public class Main {
         return maxLength;  
     }  
     public static void main(String[] args) {  
-        String str="abcabcbb";  
+        String str="bbbbb";  
         System.out.println(maxLength(str));  
   
     }  
